@@ -8,7 +8,7 @@ html, body {
   display: flex;
   justify-content: center;
   background-color: #c1dfff;
-  padding: 20px 40px 10px; /* уменьшаем отступы */
+  padding: 20px 40px 10px; 
   position: relative;
   z-index: 2;
 }
