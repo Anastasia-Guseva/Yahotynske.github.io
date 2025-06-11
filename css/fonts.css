@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'FixelVariable';
+  src: url(../fonts/FixelVariable.eot);
+  src: url(../fonts/FixelVariable.eot?#iefix) format('embedded-opentype'),
+       url(../fonts/FixelVariable.ttf) format('truetype'),
+       url(../fonts/FixelVariable.woff) format('woff'),
+       url(../fonts/FixelVariable.woff2) format('woff2');
+}

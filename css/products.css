@@ -1,0 +1,26 @@
+#products{
+  background-color: #8CCBFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+  .container{
+    display: block;
+   ;
+  }
+
+  .text {
+    max-width: 500px;
+    text-align: left;
+    align-items: center;
+  }
+  
+  .text h1 {
+    font-size: 48px;
+    color: #3a1a75;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1;
+  }
